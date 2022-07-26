@@ -1,0 +1,1 @@
+{"name":"Local: almostprime","url":"c:\\Users\\karti\\Desktop\\algorithms\\algebra\\almostprime.cpp","tests":[{"id":1658826919164,"input":"27","output":"2"},{"id":1658827073472,"input":"21","output":"8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\karti\\Desktop\\algorithms\\algebra\\almostprime.cpp","group":"local","local":true}

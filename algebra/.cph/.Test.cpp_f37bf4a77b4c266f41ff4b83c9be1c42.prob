@@ -1,0 +1,1 @@
+{"name":"Local: Test","url":"c:\\Users\\karti\\Desktop\\algorithms\\algebra\\Test.cpp","tests":[{"id":1658763071137,"input":"1\n2\n88\n42\n99","output":"1\n2\n88"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\karti\\Desktop\\algorithms\\algebra\\Test.cpp","group":"local","local":true}

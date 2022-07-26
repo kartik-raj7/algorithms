@@ -1,0 +1,1 @@
+{"name":"Local: sieve_of_erastothenes","url":"c:\\Users\\karti\\Desktop\\algorithms\\algebra\\sieve_of_erastothenes.cpp","tests":[{"id":1658822767340,"input":"45","output":"1 3 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\karti\\Desktop\\algorithms\\algebra\\sieve_of_erastothenes.cpp","group":"local","local":true}

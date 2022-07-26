@@ -1,0 +1,1 @@
+{"name":"Local: noldbach","url":"c:\\Users\\karti\\Desktop\\algorithms\\algebra\\noldbach.cpp","tests":[{"id":1658845155698,"input":"27 2","output":"YES"},{"id":1658846065320,"input":"45 7","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\karti\\Desktop\\algorithms\\algebra\\noldbach.cpp","group":"local","local":true}
